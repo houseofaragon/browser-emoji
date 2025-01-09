@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "name": "extension",
+    "name": "emoji",
     "description": "browser extension translator",
     "version": "0.0.1",
     "permissions": [
